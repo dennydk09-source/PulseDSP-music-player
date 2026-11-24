@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">PulseDSP</string>
+    <string name="tab_home">Home</string>
+    <string name="tab_queue">Queue</string>
+    <string name="tab_player">Player</string>
+    <string name="tab_effects">Effects</string>
+    <string name="tab_files">Files</string>
+    <string name="tab_about">About</string>
+    <string name="audio_effects_title">Audio Effects</string>
+    <string name="import_audio_files">Import Audio</string>
+    <string name="mount_music_folder">Browse Folder</string>
+    <string name="import_eq_json">Import .JSON EQ</string>
+    <string name="export_eq_json">Export .JSON EQ</string>
+    <string name="ai_auto_tune">AI Auto-Tune</string>
+    <string name="create_playlist">New Playlist</string>
+    <string name="cd_play_pause">Play or pause playback</string>
+    <string name="cd_previous_track">Previous track</string>
+    <string name="cd_next_track">Next track</string>
+    <string name="cd_shuffle">Toggle shuffle</string>
+    <string name="cd_shuffle_on">Shuffle mode on</string>
+    <string name="cd_shuffle_off">Shuffle mode off</string>
+    <string name="cd_repeat">Toggle repeat mode</string>
+    <string name="cd_repeat_off">Repeat mode off</string>
+    <string name="cd_repeat_all">Repeat all tracks</string>
+    <string name="cd_repeat_one">Repeat current track</string>
+    <string name="cd_album_art">Album artwork</string>
+    <string name="cd_add_to_playlist">Add track to playlist</string>
+    <string name="cd_open_audio_effects">Open Audio Effects</string>
+    <string name="qs_tile_play_label">PulseDSP Play</string>
+</resources>

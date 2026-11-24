@@ -1,0 +1,14 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24"
+    android:tint="#FFFFFF">
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M7,6h10v3l4,-4 -4,-4v3H5v6h2V6zm10,10H7v-3l-4,4 4,4v-3h12v-6h-2v4z" />
+    <!-- Active indicator dot -->
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M12,22m-1.7,0a1.7,1.7 0,1 1,3.4 0a1.7,1.7 0,1 1,-3.4 0" />
+</vector>
